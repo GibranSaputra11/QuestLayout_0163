@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">P4 - Komponent Event</string>
+    <string name="app_name">pertamuan4</string>
     <string name="prodi">Teknologi Informasi</string>
     <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
-    <string name="nama">Bambang Sumantri</string>
-    <string name="alamat">Turi, Sleman</string>
-    <string name="copy">Copyright © 2023</string>
+    <string name="nama">Gibran Saputra</string>
+    <string name="alamat">Pundong, Bantul</string>
+    <string name="copy">Copyright © 2026</string>
 </resources>
