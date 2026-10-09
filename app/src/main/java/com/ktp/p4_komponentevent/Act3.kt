@@ -1,8 +1,9 @@
 package com.ktp.p4_komponentevent
 
 import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
 
 @Composable
-fun ActivitasPertama(){
+fun ActivitasPertama(modifier: Modifier){
 
 }
